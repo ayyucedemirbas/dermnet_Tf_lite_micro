@@ -16,5 +16,5 @@ limitations under the License.
 #include "model_settings.h"
 
 const char* kCategoryLabels[kCategoryCount] = {
-    "Class 1","Class 2",
+    "Class 1","Class 2","Class 3","Class 4",
 };
